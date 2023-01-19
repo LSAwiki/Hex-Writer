@@ -1,0 +1,15 @@
+C:\Users\lafia\source\repos\Hex Writer\bin\Debug\Hex Writer.exe.config
+C:\Users\lafia\source\repos\Hex Writer\bin\Debug\Hex Writer.exe
+C:\Users\lafia\source\repos\Hex Writer\bin\Debug\Hex Writer.pdb
+C:\Users\lafia\source\repos\Hex Writer\obj\Debug\Hex Writer.csproj.AssemblyReference.cache
+C:\Users\lafia\source\repos\Hex Writer\obj\Debug\Hex Writer.csproj.SuggestedBindingRedirects.cache
+C:\Users\lafia\source\repos\Hex Writer\obj\Debug\Hex_Writer.Form1.resources
+C:\Users\lafia\source\repos\Hex Writer\obj\Debug\Hex_Writer.Properties.Resources.resources
+C:\Users\lafia\source\repos\Hex Writer\obj\Debug\Hex Writer.csproj.GenerateResource.cache
+C:\Users\lafia\source\repos\Hex Writer\obj\Debug\Hex Writer.csproj.CoreCompileInputs.cache
+C:\Users\lafia\source\repos\Hex Writer\obj\Debug\Hex Writer.exe
+C:\Users\lafia\source\repos\Hex Writer\obj\Debug\Hex Writer.pdb
+C:\Users\lafia\source\repos\Hex Writer\bin\Debug\Control.Draggable.dll
+C:\Users\lafia\source\repos\Hex Writer\obj\Debug\Hex_Writer.AboutForm.resources
+C:\Users\lafia\source\repos\Hex Writer\obj\Debug\Hex_Writer.WelcomeForm.resources
+C:\Users\lafia\source\repos\Hex Writer\obj\Debug\Hex Writer.csproj.CopyComplete
