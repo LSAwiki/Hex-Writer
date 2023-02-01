@@ -3,5 +3,3 @@ this is a Software you can see any file you like as binary read, it was an open 
 
 # the Developers : 
 Developer : LSADD company™
-
-Original Developer : LSADev66
